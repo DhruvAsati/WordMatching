@@ -69,21 +69,7 @@ You can modify these settings to change the difficulty or layout of the game.
 - **`WordCard.js`**: Displays each word in the grid and handles clicks to select words.
 - **`generateWords()`**: Function used to generate the shuffled list of words and group them for matching.
 
-### Folder Structure
-```
-/word-matching-game
-├── /src
-│   ├── /components
-│   │   ├── GameBoard.js      # Main game logic and UI
-│   │   ├── WordCard.js       # Individual word card display
-│   ├── /utils
-│   │   ├── generateWords.js  # Function to generate word list and group them
-│   └── index.js              # Entry point to the app
-├── /public
-│   └── index.html            # HTML template for the app
-├── package.json              # Project dependencies and scripts
-└── README.md                 # This file
-```
+
 
 ## Contributions
 If you'd like to contribute to this project, feel free to open an issue or submit a pull request. Any contributions, suggestions, or improvements are highly appreciated!
